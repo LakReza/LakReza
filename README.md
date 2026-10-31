@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/profile-header.png"
+       width="100%"
+       alt="Reza Lak - Industrial Automation">
+</p>
+
+
 # 👋 Hi, I'm Reza Lak
 
 ### Automation | Python | Machine Learning | Industrial Control
