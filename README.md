@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm an Automation, Python & Machine Learning Enthusiast 👋
 
-<!--
-**LakReza/LakReza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning and developing my skills in:
 
-Here are some ideas to get you started:
+- 🐍 Python Programming
+- 🤖 Machine Learning
+- ⚙️ PLC Programming (LAD / Ladder Logic)
+- 🏭 Industrial Automation
+- 🔌 Industrial Control Systems
+- 📏 Instrumentation & Process Control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Goals
+
+- Building practical Python and Machine Learning projects.
+- Developing PLC programming and industrial automation projects.
+- Learning instrumentation, sensors, and process measurement.
+- Exploring the integration of software, PLCs, and industrial control systems.
+- Improving my programming, analytical, and problem-solving skills.
+- Building a professional portfolio in Industrial Automation and Software Development.
+
+### Projects
+
+Here, I share my learning journey, practical projects, experiments, and technical documentation related to Python, Machine Learning, PLC Programming, Instrumentation, and Industrial Automation.
+
+I'm continuously learning, practicing, and building new projects. 🚀
