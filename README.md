@@ -9,7 +9,9 @@
        alt="Animated typing introduction">
 </p>
 
-# 👋 Hi, I'm Reza Lak
+# Exploring the World of Industrial Automation & Intelligent Systems ⚙️
+
+I'm passionate about combining engineering, programming, and data-driven technologies to develop practical solutions for industrial challenges.
 
 ### Automation | Python | Machine Learning | Industrial Control
 
