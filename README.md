@@ -4,6 +4,10 @@
        alt="Reza Lak - Industrial Automation">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22B8F0&center=true&vCenter=true&width=850&height=50&lines=Hi%2C+I'm+Reza+Lak;Python+Programming+Enthusiast;Learning+Siemens+PLC+Programming;Exploring+Machine+Learning;Instrumentation+%26+Process+Control"
+       alt="Animated typing introduction">
+</p>
 
 # 👋 Hi, I'm Reza Lak
 
