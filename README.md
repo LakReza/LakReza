@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=55D6E8&center=true&vCenter=true&width=900&height=65&lines=Electrical+Engineering+%7C+Control+%26+Automation;Python+Programming+Enthusiast;Learning+Siemens+PLC+Programming;Exploring+Machine+Learning;Instrumentation+%26+Process+Control"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=55D6E8&center=true&vCenter=true&width=900&height=65&lines=Hi%2C+I'm+Reza+Lak;Electrical+Engineering+%7C+Control+%26+Automation;Python+Programming+Enthusiast;Learning+Siemens+PLC+Programming;Exploring+Machine+Learning;Instrumentation+%26+Process+Control"
        alt="Animated typing introduction">
 </p>
 
