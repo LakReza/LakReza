@@ -11,13 +11,13 @@
 
 ## Exploring the World of Industrial Automation & Intelligent Systems ⚙️
 
-I'm passionate about combining engineering, programming, and data-driven technologies to develop practical solutions for industrial challenges.
+I'm interested in combining engineering principles, software development, and data-driven technologies to solve real-world industrial challenges.
 
-### Automation | Python | Machine Learning | Industrial Control
+### Automation | Python | Machine Learning | Industrial Control | Instrumentation
 
-I'm an aspiring developer and automation enthusiast passionate about combining software development, artificial intelligence, and industrial technologies.
+With a background in Electrical Engineering (Control), I'm continuously expanding my knowledge in programming, artificial intelligence, and industrial automation.
 
-I'm continuously learning, practicing, and developing practical projects to improve my technical skills.
+I enjoy learning through hands-on projects, exploring new technologies, and turning theoretical concepts into practical engineering solutions.
 
 ---
 
