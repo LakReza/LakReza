@@ -21,50 +21,48 @@ I enjoy learning through hands-on projects, exploring new technologies, and turn
 
 ---
 
-### 🚀 Technical Interests
+## 🛠️ Technical Skills & Areas of Interest
 
-- 🐍 **Python Programming** – Developing practical programming projects.
-- 🤖 **Machine Learning** – Exploring data-driven models and intelligent systems.
-- ⚙️ **PLC Programming** – Learning LAD / Ladder Logic using Siemens S7-300 and STEP 7 V5.7.
-- 🏭 **Industrial Automation** – Exploring industrial control and automation systems.
-- 📏 **Instrumentation** – Learning sensors, measurement, and process control.
-- 🔌 **Industrial Control Systems** – Understanding the integration of industrial hardware and software.
+### 💻 Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-blue?style=flat-square)
 
-### 🛠️ Technologies & Tools
+### ⚙️ Industrial Automation & PLC
+![Siemens](https://img.shields.io/badge/Siemens-PLC-009999?style=flat-square)
+![S7-300](https://img.shields.io/badge/Siemens-S7--300-009999?style=flat-square)
+![STEP 7](https://img.shields.io/badge/SIMATIC-STEP%207-009999?style=flat-square)
+![LAD](https://img.shields.io/badge/PLC-LAD-orange?style=flat-square)
 
-**Programming**
-- Python
+### 🎛️ Instrumentation & Process Control
+![Instrumentation](https://img.shields.io/badge/Industrial-Instrumentation-555555?style=flat-square)
+![Process Control](https://img.shields.io/badge/Process-Control-555555?style=flat-square)
+![Sensors](https://img.shields.io/badge/Industrial-Sensors-555555?style=flat-square)
 
-**PLC & Automation**
-- Siemens S7-300
-- SIMATIC Manager
-- STEP 7 V5.7
-- LAD / Ladder Logic
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Other Areas**
-- Machine Learning
-- Instrumentation & Process Control
-- Git & GitHub
+---
 
-### 🎯 Current Learning Focus
+## 🎯 Current Learning Focus
 
-- Developing Python projects.
-- Practicing PLC programming with Siemens S7-300.
+- Developing practical Python projects.
 - Learning Machine Learning fundamentals.
-- Understanding industrial sensors and measurement systems.
-- Exploring the connection between software and industrial automation.
+- Practicing Siemens S7-300 PLC programming using LAD.
+- Exploring Industrial Automation and Control Systems.
+- Studying Instrumentation, Sensors, and Process Measurement.
 
-### 📂 Featured Projects
+---
 
-My repositories will include practical projects, experiments, and technical documentation in:
+## 📂 Featured Projects
 
-- Python Programming
-- Machine Learning
-- PLC Programming
-- Industrial Automation
-- Instrumentation & Process Control
+Coming soon! Practical projects in Python, Machine Learning, PLC Programming, Industrial Automation, and Instrumentation.
 
-### 📫 Connect With Me
+---
+
+## 📫 Connect With Me
 
 - GitHub: [@LakReza](https://github.com/LakReza)
 
