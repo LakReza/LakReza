@@ -9,7 +9,7 @@
        alt="Animated typing introduction">
 </p>
 
-## Exploring the World of Industrial Automation & Intelligent Systems ⚙️
+## ⚙️ Exploring the World of Industrial Automation & Intelligent Systems 
 
 I'm interested in combining engineering principles, software development, and data-driven technologies to solve real-world industrial challenges.
 
