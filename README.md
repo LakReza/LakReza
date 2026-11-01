@@ -3,12 +3,12 @@
        width="100%"
        alt="Reza Lak - Industrial Automation">
 </p>
-```html
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=55D6E8&center=true&vCenter=true&width=900&height=65&lines=Hi%2C+I'm+Reza+Lak;Electrical+Engineering+%7C+Control+Systems;Industrial+Automation+%26+PLC+Programming;Instrumentation+%26+Process+Control;Python+Programming+%26+Data+Analysis;Exploring+Machine+Learning"
        alt="Animated typing introduction">
 </p>
-```
+
 
 ## ⚙️ Exploring the World of Industrial Automation & Intelligent Systems 
 
